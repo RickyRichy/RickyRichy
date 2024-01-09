@@ -5,10 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, React, Nodejs, Flutter etc**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 - 📫 How to reach me **doublershngh@gmail.com**
-</p>
 
 <h3 align="left">Skills</h3>
 <h4 align="left">Programming Languages</h4>
