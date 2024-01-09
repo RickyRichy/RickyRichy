@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **doublershngh@gmail.com**
 
-/* <h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p> */
+</p> -->
 
 <h3 align="left">Skills</h3>
 <h4 align="left">Programming Languages</h4>
