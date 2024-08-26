@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [24h-Delivery](https://github.com/LeeHaiLy13/24h-Delivery)
 
-- 🌱 I’m currently learning **Angular, React, Nodejs, Flutter etc**
+- 🌱 I’m currently learning **Angular, React, Nodejs etc**
 
 - 📫 How to reach me **doublershngh@gmail.com**
 
