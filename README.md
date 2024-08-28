@@ -102,7 +102,7 @@
 <h4 align="left">Other</h4>
 <p align="left">
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40" color="blue"/>
+    <img src="https://github.com/user-attachments/assets/2edb56f4-7c3d-4647-81d7-cab57b35eaf6" alt="bitbucket" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
