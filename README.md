@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ho Nguyen Gia Huy</h1>
 <h3 align="center">A student of University of Information Technology (VNUHCM - UIT), majoring in Information Technology.</h3>
 
-- 🔭 I’m currently working on [24h-Delivery](https://github.com/LeeHaiLy13/24h-Delivery)
+/*- 🔭 I’m currently working on [24h-Delivery](https://github.com/LeeHaiLy13/24h-Delivery)*/
 
 - 🌱 I’m currently learning **Angular, React, Nodejs etc**
 
